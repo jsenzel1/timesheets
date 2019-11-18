@@ -1,2 +1,1 @@
-# timesheets
-Repo of Time sheets from various projets
+a repo for timesheets on various projects using a pomodoro-like timing method
