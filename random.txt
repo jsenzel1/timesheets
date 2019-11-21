@@ -1,22 +1,4 @@
 
 +10 - just looking around a bit reading about english speakers in greece/job market for non Greeks
-20-
-40-
-60-
 
-20-
-40-
-60-
-
-20-
-40-
-60-
-
-20-
-40-
-60-
-
-20-
-40-
-60-
-
+probably around 20 - adding date and time functionality to the 20 minute timer script (lost track of the time because I was doing so much terminal stuff that I closed the running script window
