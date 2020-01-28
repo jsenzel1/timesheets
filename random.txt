@@ -1,4 +1,5 @@
 
+
 +10 - just looking around a bit reading about english speakers in greece/job market for non Greeks
 
 probably around 20 - adding date and time functionality to the 20 minute timer script (lost track of the time because I was doing so much terminal stuff that I closed the running script window
@@ -12,7 +13,7 @@ never mind giving up for now
 40 - doing some other stuff, making a little directory for misc. writings and also trying to find an old project idea to start on for this week
 
 60 - decided on some deadlines to add and added tip jam to git and commented voice fx 
-
+ 
 20- doing some looking around on GitHub and such - not super productive but not necessarily super *unproductive* ok maybe a little unproductive
 
 +10 ok now reading wikipedia I think I need to start another timesheet
@@ -20,6 +21,7 @@ never mind giving up for now
 2019-11-25 @ 13:52 PM
 
 20 +10 - doing some other looking around for schools here, then writing an email to admissions to ask about applications etc.
+
 
 2019-11-27 @ 14:11 PM
 
@@ -52,3 +54,45 @@ working on some game audio stuff
 ~40 unlogged working on works site and now documenting how some of the time sheet stuff works (woah meta)
 
 60- yeah very meta I'm writing about the tool I'm using right now
+
+20- almost done writing the full readme for timeSheets
+
+2019-12-30 @ 16:24 PM
+
+
+20 - building and uploading old game a week stuff to itch to have a full game a week collection up
+
+40- typing some email drafts
+
++15 - finishing email drafts  
+
+2020-01-06 @ 13:49 PM
+
+20- reading a bit about wheatpasting
+
+40- looking at some other wheat paste stuff (old school shepard fairey is interesting)
+
+60- ok looking at some other stuff more distractions
+
+2020-01-10 @ 11:35 AM
+
+20 - figuring out exactly what to do today - emailing dan
+
+40 - looking at some domain names
+
+60 - bought a domain on a whim, now looking at some of the to-dos for game audio source stuff
+
+
+2020-01-13 @ 18:43 PM
+
+- 40 - making a favicon generator
+
+2020-01-14 @ 17:49 PM
+
+20- writing asset load logic
+
+40- writing main logic and object logic
+
++40 undos - movement and array object logic
+2020-01-16 @ 18:53 PM
+2020-01-17 @ 16:11 PM
